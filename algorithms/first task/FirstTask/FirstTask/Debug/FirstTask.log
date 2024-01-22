@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\Second Year\algo\First Task\FirstTask\FirstTask\Source.c(100,32): warning C4013: 'abs' undefined; assuming extern returning int
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\Second Year\algo\First Task\FirstTask\FirstTask\Source.c(165,23): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\Second Year\algo\First Task\FirstTask\FirstTask\Source.c(172,26): warning C4013: 'lcs3' undefined; assuming extern returning int
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\Second Year\algo\First Task\FirstTask\FirstTask\Source.c(180,28): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\Second Year\algo\First Task\FirstTask\FirstTask\Source.c(197,13): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\Second Year\algo\First Task\FirstTask\FirstTask\Source.c(237,72): warning C4048: different array subscripts: 'int (*)[6]' and 'int [5][5]'
+  FirstTask.vcxproj -> C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\Second Year\algo\First Task\FirstTask\Debug\FirstTask.exe
